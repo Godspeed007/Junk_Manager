@@ -1,3 +1,6 @@
+#Trademark ~~ El Patron ~~
+#A good tool to organize your local disk C,D,E,F and any other place(folder:p) you wanna put it.
+
 import os
 from pathlib import Path
 
