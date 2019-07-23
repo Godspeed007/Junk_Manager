@@ -1,4 +1,4 @@
-#Trademark ~~ El Patron ~~
+#Trademark ~~ El Patron/lordstark196 ~~
 #A good tool to organize your local disk C,D,E,F and any other place(folder:p) you wanna put it.
 
 import os
