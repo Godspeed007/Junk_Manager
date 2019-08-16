@@ -18,7 +18,7 @@ DIRECTORIES = {
 				".dmg", ".rar", ".xar", ".zip"],
 	"AUDIO": [".aac", ".aa", ".aac", ".dvf", ".m4a", ".m4b", ".m4p", ".mp3",
 			".msv", "ogg", "oga", ".raw", ".vox", ".wav", ".wma"],
-	"PLAINTEXT": [".txt", ".in", ".out"],
+	"TEXT_FILES": [".txt", ".in", ".out"],
 	"PDF": [".pdf"],
 	"PYTHON": [".py"],
 	"XML": [".xml"],
